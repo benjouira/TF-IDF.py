@@ -13,7 +13,7 @@ print(vectorizer.get_feature_names_out())
 print(X.shape)
 print(X)
 
-
+# ************************************************
 
 from scipy.sparse import hstack
 import numpy as np
