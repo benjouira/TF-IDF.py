@@ -22,3 +22,4 @@ X_train_dtm = hstack((X,np.array(l)[:,None]))
 print(X.shape)
 print(X_train_dtm.shape)
 print(X_train_dtm)
+
