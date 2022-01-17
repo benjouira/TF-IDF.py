@@ -6,5 +6,3 @@ l=le.fit_transform(l)
 
 # list(le.classes_)
 l
-
-
